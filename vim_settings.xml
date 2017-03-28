@@ -3,115 +3,208 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/code.py" timestamp="1490652670399">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="21" />
-        <mark key="^" line="1" column="21" />
-        <mark key="." line="1" column="21" />
+      <file name="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/example/src/main/scala/Main.scala" timestamp="1489250300554">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="47" />
+        <mark key="^" line="5" column="46" />
+        <mark key="." line="5" column="46" />
       </file>
-      <file name="/Python Console" timestamp="1490646548543">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/streams/src/main/scala/streams/GameDef.scala" timestamp="1489462133033">
+        <mark key="'" line="30" column="2" />
+        <mark key="[" line="146" column="6" />
+        <mark key="]" line="83" column="15" />
+        <mark key="." line="83" column="49" />
+        <mark key="^" line="83" column="49" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Code/work/yozio_data_infrastructure/data_acquisition/scrapy/projects/site_crawler/site_crawler/spiders/site_spider.py" timestamp="1490681463752">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/example/src/test/scala/example/ListsSuite.scala" timestamp="1489250127058">
+        <mark key="'" line="48" column="20" />
+        <mark key="[" line="73" column="21" />
+        <mark key="]" line="73" column="22" />
+        <mark key="." line="73" column="22" />
+        <mark key="^" line="48" column="14" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Code/work/yozio_data_infrastructure/tmp/output/play.google.com/report/results_domain_count_report/part-00000" timestamp="1490645239232">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="18" column="33" />
+      <file name="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/streams/src/main/scala/streams/Solver.scala" timestamp="1489462885868">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="105" column="32" />
+        <mark key="]" line="105" column="32" />
+        <mark key="." line="105" column="32" />
+        <mark key="^" line="74" column="66" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Code/work/yozio_data_infrastructure/tmp/json2html" timestamp="1490646981105">
-        <mark key="k" line="21" column="0" />
-        <mark key="[" line="15" column="22" />
-        <mark key="]" line="16" column="11" />
-        <mark key="." line="16" column="11" />
-        <mark key="^" line="16" column="11" />
+      <file name="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/streams/src/main/scala/streams/StringParserTerrain.scala" timestamp="1489462410707">
+        <mark key="'" line="55" column="43" />
+        <mark key="[" line="60" column="11" />
+        <mark key="]" line="60" column="10" />
+        <mark key="." line="60" column="10" />
+        <mark key="^" line="60" column="10" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Code/work/yozio_data_infrastructure/tmp/playground.py" timestamp="1490645723893">
-        <mark key="'" line="1" column="4" />
-        <mark key="[" line="24" column="62" />
-        <mark key="]" line="24" column="62" />
-        <mark key="^" line="24" column="62" />
-        <mark key="." line="24" column="62" />
+      <file name="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/example/src/main/scala/week2.sc" timestamp="1489290548497">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/streams/src/test/scala/streams/BloxorzSuite.scala" timestamp="1489462822079">
+        <mark key="'" line="130" column="18" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Code/Scala/Example/src/main/scala/example.scala" timestamp="1490325857876">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/example/src/main/scala/example/week1.sc" timestamp="1489288266606">
+        <mark key="[" line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/example/src/main/scala/example/test.sc" timestamp="1489284572156">
+        <mark key="[" line="72" column="14" />
+        <mark key="]" line="72" column="14" />
+        <mark key="^" line="70" column="25" />
+        <mark key="." line="72" column="14" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Code/Scala/Example/src/main/scala/HelloWorld.sc" timestamp="1490326176655">
+        <mark key="'" line="10" column="3" />
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/example/src/main/scala/story_of_trait.sc" timestamp="1489366794533">
+        <mark key="'" line="19" column="31" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="35" column="72" />
+        <mark key="^" line="35" column="72" />
+        <mark key="." line="35" column="72" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="7" filename="$USER_HOME$/Dropbox/Code/work/yozio_data_infrastructure/tmp/playground.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/Dropbox/Code/work/yozio_data_infrastructure/tmp/playground.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Dropbox/Code/work/yozio_data_infrastructure/tmp/playground.py" />
-      <jump line="1" column="4" filename="$USER_HOME$/Dropbox/Code/work/yozio_data_infrastructure/tmp/playground.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/Dropbox/Code/work/yozio_data_infrastructure/tmp/json2html" />
-      <jump line="28" column="26" filename="$USER_HOME$/Dropbox/Code/work/yozio_data_infrastructure/tmp/json2html" />
+      <jump line="48" column="20" filename="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/example/src/test/scala/example/ListsSuite.scala" />
+      <jump line="15" column="0" filename="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/example/src/main/scala/example/test.sc" />
+      <jump line="17" column="53" filename="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/example/src/main/scala/example/test.sc" />
+      <jump line="7" column="16" filename="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/example/src/main/scala/example/test.sc" />
+      <jump line="5" column="57" filename="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/example/src/main/scala/example/test.sc" />
+      <jump line="3" column="34" filename="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/example/src/main/scala/example/test.sc" />
+      <jump line="49" column="20" filename="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/example/src/main/scala/example/test.sc" />
+      <jump line="69" column="27" filename="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/example/src/main/scala/example/test.sc" />
+      <jump line="54" column="0" filename="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/example/src/main/scala/example/test.sc" />
+      <jump line="71" column="0" filename="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/example/src/main/scala/example/test.sc" />
+      <jump line="55" column="0" filename="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/example/src/main/scala/example/test.sc" />
+      <jump line="2" column="0" filename="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/example/src/main/scala/week2.sc" />
+      <jump line="20" column="31" filename="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/example/src/main/scala/story_of_trait.sc" />
+      <jump line="54" column="77" filename="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/streams/src/main/scala/streams/StringParserTerrain.scala" />
+      <jump line="56" column="43" filename="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/streams/src/main/scala/streams/StringParserTerrain.scala" />
+      <jump line="30" column="2" filename="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/streams/src/main/scala/streams/GameDef.scala" />
+      <jump line="79" column="28" filename="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/streams/src/test/scala/streams/BloxorzSuite.scala" />
+      <jump line="82" column="29" filename="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/streams/src/test/scala/streams/BloxorzSuite.scala" />
+      <jump line="85" column="29" filename="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/streams/src/test/scala/streams/BloxorzSuite.scala" />
+      <jump line="68" column="62" filename="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/streams/src/main/scala/streams/Solver.scala" />
+      <jump line="43" column="0" filename="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/streams/src/main/scala/streams/Solver.scala" />
+      <jump line="129" column="18" filename="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/streams/src/test/scala/streams/BloxorzSuite.scala" />
+      <jump line="10" column="3" filename="$USER_HOME$/Dropbox/Code/Scala/Example/src/main/scala/HelloWorld.sc" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>('http://plus.google.com/', 1),
-    ('http://www.newsday.com/', 1),
-    ('http://www.google.com.co/', 8),
-    ('http://news.google.com/', 22),
-    ('http://www.wikidata.org/', 1),
-    ('http://support.google.com/', 15),
-    ('http://books.google.com/', 56),
-    ('http://play.google.com/', 2313),
-    ('http://trends.google.com/', 1),
-    ('http://en.wikipedia.org/', 6),
-    ('http://creativecommons.org/', 1),
-    ('http://music.google.com/', 1),
-    ('http://afp.google.com/', 1),
-    ('http://www.google.com/', 2695),
-    ('http://accounts.google.com/', 110),
-    ('http://store.google.com/', 1),
-    ('http://hangouts.google.com/', 2),
-    ('http://grantland.com/', 1),
-    ('http://payments.google.com/', 3)</text>
+      <register name="&quot;" type="4">
+        <text>Leaf(1)</text>
+      </register>
+      <register name="-" type="4">
+        <text>Leaf(1)</text>
+      </register>
+      <register name="/" type="4">
+        <text>isLegal</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">dmFsIHRyZWUxIDogVHJlZSA9IEJyYW5jaCgxLCBMZWFmKDEpLCBMZWFmKDIpKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">dmFsIHggPSA0Mgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="65" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="65535" code="91" mods="130" />
+          <key char="47" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="76" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
           <key char="65535" code="10" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBsYSA9IDQyCiAgICAgICAgcHJpbnQgYXBwbGEK</text>
+      <register name="2" type="4">
+        <text>def sqrtStream(x: Double): Stream[Double] = {
+  def improve(guess: Double) = (guess + x / guess) / 2
+  lazy val guesses: Stream[Double] = 1 #:: (guesses map improve)
+  guesses
+}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBsYSA9IDQyCiAgICAgICAgcHJpbnQgYXBwbGEK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ZGVmIGNvbnNbVF0oaGQ6IFQsIHRsOiA9PiBTdHJlYW1bVF0pID0gbmV3IFN0cmVhbVtUXSB7CiAgZGVmIGhlYWQgPSBoZAogIHByaXZhdGUgdmFyIHRsT3B0OiBPcHRpb25bU3RyZWFtW1RdXSA9IE5vbmUKICBkZWYgdGFpbDogVCA9IHRsT3B0IG1hdGNoIHsKICAgIGNhc2UgU29tZSh4KSA9PiB4CiAgICBjYXNlIE5vbmUgPT4gdGxPcHQgPSBTb21lKHRsKTsgdGFpbAogCn0=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGRpcl9wYXRoKSA9IGRpcmVjdG9yeQo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRpcmVjdG9yeSA9IG9zLnBhdGguZGlybmFtZShmaWxlX3BhdGgpCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">MSsxCg==</text>
       </register>
-      <register name="-" type="4">
-        <text>)</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgdmFsIHRtcCA9IGJsb2NrLm5laWdoYm9ycy5tYXAgeyBjYXNlIChibG9jaywgXykgPT4gKGJsb2NrLCBibG9jay5pc0xlZ2FsKSB9CiAgICAgIHByaW50bG4odG1wKQo=</text>
       </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxkaXJlY3RvcnlcPg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgcHJpbnRsbihzb2x1dGlvbikKICAgICAgYXNzZXJ0KHNvbHZlKHNvbHV0aW9uKSA9PSBCbG9jayhnb2FsLCBnb2FsKSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgbmV3RXhwbG9yZWQgPSBleHBsb3JlZCArIGJsb2NrCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaXJlY3RvcnlcPg==</last-search>
+      <last-search>isLegal</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaXJlY3RvcnlcPg==</last-pattern>
+      <last-pattern>isLegal</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkaXJlY3RvcnlcPg==</entry>
+        <entry>isLegal</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>h v</entry>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
   </component>
 </application>
