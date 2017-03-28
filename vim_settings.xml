@@ -3,18 +3,44 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/example/src/main/scala/Main.scala" timestamp="1489250300554">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="5" column="47" />
-        <mark key="^" line="5" column="46" />
-        <mark key="." line="5" column="46" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/streams/src/main/scala/streams/GameDef.scala" timestamp="1489462133033">
         <mark key="'" line="30" column="2" />
         <mark key="[" line="146" column="6" />
         <mark key="]" line="83" column="15" />
         <mark key="." line="83" column="49" />
         <mark key="^" line="83" column="49" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/streams/src/main/scala/streams/StringParserTerrain.scala" timestamp="1489462410707">
+        <mark key="'" line="55" column="43" />
+        <mark key="[" line="60" column="11" />
+        <mark key="]" line="60" column="10" />
+        <mark key="." line="60" column="10" />
+        <mark key="^" line="60" column="10" />
+      </file>
+      <file name="/Python Console" timestamp="1490724514186">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/example/src/main/scala/week2.sc" timestamp="1489290548497">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/example/src/main/scala/example/week1.sc" timestamp="1489288266606">
+        <mark key="[" line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/example/src/main/scala/example/test.sc" timestamp="1489284572156">
+        <mark key="[" line="72" column="14" />
+        <mark key="]" line="72" column="14" />
+        <mark key="^" line="70" column="25" />
+        <mark key="." line="72" column="14" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/example/src/main/scala/Main.scala" timestamp="1489250300554">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="47" />
+        <mark key="^" line="5" column="46" />
+        <mark key="." line="5" column="46" />
       </file>
       <file name="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/example/src/test/scala/example/ListsSuite.scala" timestamp="1489250127058">
         <mark key="'" line="48" column="20" />
@@ -30,20 +56,6 @@
         <mark key="." line="105" column="32" />
         <mark key="^" line="74" column="66" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/streams/src/main/scala/streams/StringParserTerrain.scala" timestamp="1489462410707">
-        <mark key="'" line="55" column="43" />
-        <mark key="[" line="60" column="11" />
-        <mark key="]" line="60" column="10" />
-        <mark key="." line="60" column="10" />
-        <mark key="^" line="60" column="10" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/example/src/main/scala/week2.sc" timestamp="1489290548497">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/streams/src/test/scala/streams/BloxorzSuite.scala" timestamp="1489462822079">
         <mark key="'" line="130" column="18" />
         <mark key="[" line="141" column="0" />
@@ -56,14 +68,10 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/example/src/main/scala/example/week1.sc" timestamp="1489288266606">
-        <mark key="[" line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Courses/MOOC/Coursera - Functional Program Design in Scala/example/src/main/scala/example/test.sc" timestamp="1489284572156">
-        <mark key="[" line="72" column="14" />
-        <mark key="]" line="72" column="14" />
-        <mark key="^" line="70" column="25" />
-        <mark key="." line="72" column="14" />
+      <file name="$USER_HOME$/Dropbox/Code/work/yozio_data_infrastructure/data_acquisition/scrapy/crawler/util/file_helper.py" timestamp="1490724416158">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Code/Scala/Example/src/main/scala/HelloWorld.sc" timestamp="1490326176655">
         <mark key="'" line="10" column="3" />
@@ -106,11 +114,11 @@
       <jump line="10" column="3" filename="$USER_HOME$/Dropbox/Code/Scala/Example/src/main/scala/HelloWorld.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Leaf(1)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHdoYXQgPSA0MgogICAgcHJpbnQgd2hhdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Leaf(1)</text>
+        <text>wha</text>
       </register>
       <register name="/" type="4">
         <text>isLegal</text>
@@ -119,7 +127,7 @@
         <text encoding="base64">dmFsIHRyZWUxIDogVHJlZSA9IEJyYW5jaCgxLCBMZWFmKDEpLCBMZWFmKDIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFsIHggPSA0Mgo=</text>
+        <text encoding="base64">ICAgIHdoYXQgPSA0MgogICAgcHJpbnQgd2hhdAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -139,33 +147,33 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHd0ZiA9IDQyCiAgICBwcmludCB3dGYK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dmFsIHggPSA0Mgo=</text>
+      </register>
+      <register name="4" type="4">
         <text>def sqrtStream(x: Double): Stream[Double] = {
   def improve(guess: Double) = (guess + x / guess) / 2
   lazy val guesses: Stream[Double] = 1 #:: (guesses map improve)
   guesses
 }</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ZGVmIGNvbnNbVF0oaGQ6IFQsIHRsOiA9PiBTdHJlYW1bVF0pID0gbmV3IFN0cmVhbVtUXSB7CiAgZGVmIGhlYWQgPSBoZAogIHByaXZhdGUgdmFyIHRsT3B0OiBPcHRpb25bU3RyZWFtW1RdXSA9IE5vbmUKICBkZWYgdGFpbDogVCA9IHRsT3B0IG1hdGNoIHsKICAgIGNhc2UgU29tZSh4KSA9PiB4CiAgICBjYXNlIE5vbmUgPT4gdGxPcHQgPSBTb21lKHRsKTsgdGFpbAogCn0=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">MSsxCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHRtcCA9IGJsb2NrLm5laWdoYm9ycy5tYXAgeyBjYXNlIChibG9jaywgXykgPT4gKGJsb2NrLCBibG9jay5pc0xlZ2FsKSB9CiAgICAgIHByaW50bG4odG1wKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihzb2x1dGlvbikKICAgICAgYXNzZXJ0KHNvbHZlKHNvbHV0aW9uKSA9PSBCbG9jayhnb2FsLCBnb2FsKSkK</text>
+        <text encoding="base64">MSsxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIHRtcCA9IGJsb2NrLm5laWdoYm9ycy5tYXAgeyBjYXNlIChibG9jaywgXykgPT4gKGJsb2NrLCBibG9jay5pc0xlZ2FsKSB9CiAgICAgIHByaW50bG4odG1wKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbmV3RXhwbG9yZWQgPSBleHBsb3JlZCArIGJsb2NrCg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihzb2x1dGlvbikKICAgICAgYXNzZXJ0KHNvbHZlKHNvbHV0aW9uKSA9PSBCbG9jayhnb2FsLCBnb2FsKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
