@@ -12,7 +12,11 @@
       <file name="/Python Console" timestamp="1490646548543">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Code/work/yozio_data_infrastructure/data_acquisition/scrapy/projects/site_crawler/site_crawler/spiders/site_spider.py" timestamp="1490680957957" />
+      <file name="$USER_HOME$/Dropbox/Code/work/yozio_data_infrastructure/data_acquisition/scrapy/projects/site_crawler/site_crawler/spiders/site_spider.py" timestamp="1490681463752">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Code/work/yozio_data_infrastructure/tmp/output/play.google.com/report/results_domain_count_report/part-00000" timestamp="1490645239232">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="18" column="33" />
@@ -71,12 +75,15 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRpcl9wYXRoKSA9IGRpcmVjdG9yeQo=</text>
+        <text encoding="base64">ICAgICAgICBhcHBsYSA9IDQyCiAgICAgICAgcHJpbnQgYXBwbGEK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhcHBsYSA9IDQyCiAgICAgICAgcHJpbnQgYXBwbGEK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGRpcl9wYXRoKSA9IGRpcmVjdG9yeQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGRpcmVjdG9yeSA9IG9zLnBhdGguZGlybmFtZShmaWxlX3BhdGgpCg==</text>
       </register>
       <register name="-" type="4">
